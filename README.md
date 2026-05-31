@@ -76,7 +76,8 @@ The following taxonomy organizes the papers in this repository. A single paper m
 ### Text-Only Benchmarks
 
 - **[2026.05]** [**OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling**](https://arxiv.org/abs/2605.26322) [![Paper](https://img.shields.io/badge/arXiv26-b22222)](https://arxiv.org/abs/2605.26322)
-  Evaluates belief representations directly via a two-stage pipeline: belief extraction from narrative and seven-dimensional belief labeling. Built on 895 stories with 22,343 labeled belief propositions to probe actor-specific belief-tracking bottlenecks. `[belief]` `[knowledge]` `[perspective]`
+
+Evaluates belief representations directly via a two-stage pipeline: belief extraction from narrative and seven-dimensional belief labeling. Built on 895 stories with 22,343 labeled belief propositions to probe actor-specific belief-tracking bottlenecks. `[belief]` `[knowledge]` `[perspective]`
 
 - **[2026.04]** [**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**](https://arxiv.org/abs/2604.20443) [![Paper](https://img.shields.io/badge/arXiv26-b22222)](https://arxiv.org/abs/2604.20443)
   Evaluates both literal ToM (mental state prediction) and functional ToM (using inferred states to forecast dialogue trajectories). Finds that most LLMs excel at identifying mental states but fail to leverage them for social trajectory prediction. `[belief]` `[intention]` `[desire]`
