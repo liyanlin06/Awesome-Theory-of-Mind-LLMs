@@ -251,4 +251,4 @@ The following taxonomy organizes the papers in this repository. A single paper m
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-llm-theory-of-mind&type=Date)](https://star-history.com/#YOUR_USERNAME/awesome-llm-theory-of-mind&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=liyanlin06/Awesome-Theory-of-Mind-LLM&type=Date)](https://star-history.com/#YOUR_USERNAME/awesome-llm-theory-of-mind&Date)
