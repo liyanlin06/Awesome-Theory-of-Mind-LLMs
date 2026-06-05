@@ -241,7 +241,7 @@ The following taxonomy organizes the papers in this repository. A single paper m
 
 ## Survey & Position Papers
 
-- **[2025.08]** [**Re-evaluating Theory of Mind evaluation in large language models**](https://royalsocietypublishing.org/rstb/article-abstract/380/1932/20230499/235070/Re-evaluating-Theory-of-Mind-evaluation-in-large?redirectedFrom=fulltext) [![Paper](https://img.shields.io/badge/PhiTrans-95%25-orange)](https://royalsocietypublishing.org/rstb/article-abstract/380/1932/20230499/235070/Re-evaluating-Theory-of-Mind-evaluation-in-large?redirectedFrom=fulltext)
+- **[2025.08]** [**Re-evaluating Theory of Mind evaluation in large language models**](https://royalsocietypublishing.org/rstb/article-abstract/380/1932/20230499/235070/Re-evaluating-Theory-of-Mind-evaluation-in-large?redirectedFrom=fulltext) [![Paper](https://img.shields.io/badge/PhiTrans-6B7280)](https://royalsocietypublishing.org/rstb/article-abstract/380/1932/20230499/235070/Re-evaluating-Theory-of-Mind-evaluation-in-large?redirectedFrom=fulltext)
   A critical review of Theory of Mind evaluation in LLMs, arguing that many current benchmarks conflate true mental-state reasoning with shortcut pattern matching, and calling for more cognitively grounded and rigorous ToM evaluation frameworks.
 
 - **[2025.02]** [**A Survey of Theory of Mind in Large Language Models: Evaluations, Representations, and Safety Risks**](https://arxiv.org/abs/2502.06470) [![Paper](https://img.shields.io/badge/arXiv25-b22222)](https://arxiv.org/abs/2502.06470)
