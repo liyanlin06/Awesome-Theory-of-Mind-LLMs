@@ -145,6 +145,9 @@ The following taxonomy organizes the papers in this repository. A single paper m
 
 ### Prompting-Based
 
+- **[2026.05]** [**UserHarness: Harnessing User Minds for Stronger Agent Theory-of-Mind**](https://arxiv.org/abs/2605.27721) [![Paper](https://img.shields.io/badge/arXiv26-b22222)](https://arxiv.org/abs/2605.27721)
+  Inference-time framework that reframes ToM reasoning as explicit user-mind reconstruction, tracking observations, beliefs, intentions, actions, and nested beliefs from the user's perspective. Achieves 95.94% macro accuracy across five ToM benchmarks, with over 15% relative improvement over existing inference methods. `[belief]` `[intention]` `[knowledge]` `[perspective]`
+  
 - **[2025.01]** [**Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition**](https://arxiv.org/abs/2501.09056) [![Paper](https://img.shields.io/badge/COLING25-0F766E)](https://arxiv.org/abs/2501.09056)
   Decomposes ToM into recursive perspective simulation and granular statement-awareness subtasks; improves performance on higher-order and conversational ToM tasks with no additional training. `[belief]` `[perspective]`
 
