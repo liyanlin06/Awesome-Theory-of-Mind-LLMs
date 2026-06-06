@@ -125,6 +125,9 @@ The following taxonomy organizes the papers in this repository. A single paper m
 
 ### Multimodal ToM Benchmarks
 
+- **[2026.06]** [**GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs**](https://arxiv.org/abs/2606.04184) [![Paper](https://img.shields.io/badge/ACL26-004488)](https://arxiv.org/abs/2606.04184)
+  First multimodal benchmark for group-level ToM, modeling how individual BDI states interact with group tensions, conformity dynamics, and structural constraints to produce nonlinear social outcomes. Introduces a seven-level cognitive audit framework and shows that current MLLMs lag behind humans in reasoning about social structures and collective dynamics. `[belief]` `[desire]` `[intention]` `[multimodal]` `[multi-agent]`
+  
 - **[2026.02]** [**Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning**](https://arxiv.org/abs/2602.00971) [![Paper](https://img.shields.io/badge/ICLR26-7C3AED)](https://arxiv.org/abs/2602.00971) [![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hitemotion.github.io/)
   Introduces HitEmotion, a ToM-grounded hierarchical benchmark diagnosing capability breakpoints across increasing levels of cognitive depth for emotion reasoning. Also proposes a ToM-guided reasoning chain and TMPO (RL with mental states as process-level supervision); see also [Fine-Tuning & Training](#fine-tuning--training). `[emotion]` `[belief]` `[intention]` `[multimodal]`
 
